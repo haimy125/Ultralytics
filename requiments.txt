@@ -1,5 +1,4 @@
 ultralytics
 streamlit-webrtc
 opencv-python-headless
-ffmpeg
-libgl1
+mediadex
